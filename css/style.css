@@ -195,6 +195,8 @@ p{
 
 .top_cont_outer{
 	background:#f9f9f9;
+	width:50%;
+	height:200px;
 	position:relative;
 	}
 	
@@ -205,7 +207,7 @@ p{
 	
 .top_content{
 	position:relative;
-	padding-top: 100px;
+	padding-top: 50px;
 	}
 	
 .white_pad{
@@ -221,7 +223,7 @@ p{
 	}
 	
 .top_left_cont{
-	padding:210px 0;
+	padding:110px 0;
 	
 	}
 	
