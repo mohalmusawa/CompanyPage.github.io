@@ -200,11 +200,12 @@ p{
 	
 .top_cont_inner{
 	background:url(../img/white_pad.png) no-repeat right bottom;
+	position:relative;
 	}
 	
 .top_content{
 	position:relative;
-	padding-top: 50px;
+	padding-top: 100px;
 	}
 	
 .white_pad{
@@ -220,7 +221,7 @@ p{
 	}
 	
 .top_left_cont{
-	padding:110px 0;
+	padding:210px 0;
 	
 	}
 	
