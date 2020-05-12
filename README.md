@@ -97,7 +97,7 @@
 								<h3>Effeciency &amp; Cost-effective!</h3>
 								<h2>Maxsimizng Business communication efficieny &amp; Minmizing operational cost</h2>
 								<p> By the use of the new evoloving Internt of Things (IOT) technology and the presense of wide netwrok coverage world-wide. The company is commited to help business achieving their objectives by provding a relaiable netwrok and communication services using the latest technologyical decives. </p>
-								<a href="#service">Learn more</a> </div>
+								<a href="#service" class="learn_more2">Learn more</a> </div>
 						</div>
 						<div class="col-lg-7 col-sm-5"> </div>
 					</div>
@@ -109,7 +109,7 @@
 
 	<!--Service-->
 	<section id="service">
-		<div class="container">
+		
 			<h2>Services</h2>
 			<div class="service_area">
 				<div class="row">
@@ -150,7 +150,7 @@
 	<section id="work_outer">
 		<!--main-section-start-->
 		<div class="top_cont_latest">
-			<div class="container">
+			
 				<h2>Latest Work</h2>
 				<div class="work_section">
 					<div class="row">
